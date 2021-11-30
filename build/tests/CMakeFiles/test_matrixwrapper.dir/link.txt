@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/test_matrixwrapper.dir/test-runner.o CMakeFiles/test_matrixwrapper.dir/approxEqual.o CMakeFiles/test_matrixwrapper.dir/matrixwrapper_test.o  -o test_matrixwrapper   -L/home/finley/CODE/bfl-release/build/src  -Wl,-rpath,/home/finley/CODE/bfl-release/build/src:/usr/local/lib ../src/liborocos-bfl.so /usr/local/lib/libcppunit.so 

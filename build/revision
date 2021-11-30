@@ -1,0 +1,1 @@
+svn info /home/finley/CODE/bfl-release | grep '^Revision' | sed -e 's/Revision: *//'
